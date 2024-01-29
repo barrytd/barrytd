@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any cybersecurity projects
 - 📫 How to reach me r.perezpereda01@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have 2 cats Luna and Stache
+- ⚡ Fun fact: I have 2 cats Luna (Tabby) and Stache (Tuxedo)
 
 <!---
 barrytd/barrytd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
