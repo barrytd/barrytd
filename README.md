@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barrytd
-- 👀 I’m interested in reading and going ot the gym
+- 👀 I’m interested in reading and working out
 - 🌱 I’m currently learning Cybersecurity at WGU
 - 💞️ I’m looking to collaborate on any cybersecurity projects
 - 📫 How to reach me r.perezpereda01@gmail.com
