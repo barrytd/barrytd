@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barrytd
+- 👋 Hi, I’m @BarryTD
 - 👀 I’m interested in reading and working out
 - 🌱 I’m currently learning Cybersecurity at WGU
 - 💞️ I’m looking to collaborate on any cybersecurity projects
