@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert
-- 👀 I’m interested in reading and working out
+- 👀 I’m interested in video games, reading, and going to the gym
 - 🌱 I’m currently learning Cybersecurity at WGU
 - 💞️ I’m looking to collaborate on any cybersecurity projects
 - 📫 How to reach me r.perezpereda01@gmail.com
