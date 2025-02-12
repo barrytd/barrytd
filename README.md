@@ -23,7 +23,7 @@
 - Active Directory exploitation
 
 ### 🏆 Badges
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-User-green)](https://www.hackthebox.com/home/users/profile/HTB-2B2E7244AC)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-User-green)]([https://www.hackthebox.com/home/users/profile/](https://academy.hackthebox.com/my-badges))
 
 ### 🚀 Goals for 2025
 - Earn Security+ certification
