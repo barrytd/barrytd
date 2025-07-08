@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Robert
 - 🔒 Cybersecurity Enthusiast | CTF Player | Penetration Testing Learner
 - 🛠️ Tools: Nmap, Wireshark, VirtualBox, Kali Linux
-- 🌱 I’m currently learning Cybersecurity at WGU and practicing daily on HackTheBox, TryHackMe, and VirtualBox labs
-- 💞️ I’m looking to collaborate on cybersecurity projects, CTF writeups, or open-source tools
+- 🌱 I’m currently learning Cybersecurity at WGU and practicing daily on HackTheBox and VirtualBox labs
+- 💞️ I’m looking to collaborate on cybersecurity projects or open-source tools
 - 📫 How to reach me: [r.perezpereda01@gmail.com](mailto:r.perezpereda01@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 2 cats, Luna (Tabby) and Stache (Tuxedo)
 
 ### 🎯 CTF & Labs
-- Regularly solving challenges on [HackTheBox](https://www.hackthebox.com/) and [TryHackMe](https://tryhackme.com/)
+- Regularly solving challenges on [HackTheBox](https://www.hackthebox.com/)
 - Practicing network analysis and penetration testing in VirtualBox environments
 
 ### 🛠️ Tools & Technologies
@@ -18,18 +18,15 @@
 - **OS**: Kali Linux, Windows
 
 ### 📚 Currently Learning
+- I’m currently working on a [Penetration Testing HackTheBox Lab ](https://github.com/barrytd/HackTheBoxLab)
 - Advanced Wireshark packet analysis
 - Exploit development with Python
 - Active Directory exploitation
 
-### 🏆 Badges
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-User-green)](https://academy.hackthebox.com/my-badges)
-
-### 🚀 Goals for 2025
-- Earn Security+ certification
-- Earn CySA+ certification
-- Publish 10+ CTF writeups
-- Contribute to open-source cybersecurity tools
+### 🚀 Certifications
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
   
 
 <!---
