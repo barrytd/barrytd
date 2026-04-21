@@ -10,6 +10,7 @@ Aspiring cybersecurity professional working toward a B.S. in Cybersecurity & Inf
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=flat-square)
+![Project+](https://img.shields.io/badge/CompTIA-Project%2B-red?style=flat-square)
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=flat-square)
 ![ITIL](https://img.shields.io/badge/ITIL-4%20Foundation-purple?style=flat-square)
 
@@ -19,7 +20,7 @@ Aspiring cybersecurity professional working toward a B.S. in Cybersecurity & Inf
 
 | Tool | What it does |
 |------|-------------|
-| [Pulse](https://github.com/barrytd/Pulse) | Windows event log analyzer for SOC triage. Parses `.evtx` files, runs 14 detection rules with MITRE ATT&CK tagging across login attacks, persistence, defence evasion, and PowerShell abuse. Correlates multi-event attack chains, generates a security score, and outputs HTML (with remediation tab), JSON, CSV, and text reports. Includes config file, allowlist support, severity filtering, and 75 unit tests. Built in Python. |
+| [Pulse](https://github.com/barrytd/Pulse) | Full-stack Windows event log analyzer for SOC triage. Parses `.evtx` files and runs **25 detection rules** tagged with MITRE ATT&CK, NIST CSF, and ISO 27001 — login attacks, persistence, defence evasion, Kerberoasting / Golden Ticket / DCSync, credential dumping, and PowerShell abuse. Correlates multi-event attack chains, generates a letter-grade security score, and exports HTML / JSON / CSV / PDF / text reports. Ships with a FastAPI web dashboard: multi-user auth (RBAC), live monitoring via SSE, Windows Firewall integration (block-list + `netsh` push), scheduled scans, email / Slack / Discord alerts, compliance page, trend analytics, and API token auth for CI. **478 unit tests**, deployed on Render. Built in Python. |
 
 ---
 
@@ -48,7 +49,8 @@ Hands-on penetration testing labs — every one documented with full notes, comm
 | Post-Exploitation | Evil-WinRM, secretsdump, GodPotato, PrintSpoofer |
 | Password Attacks | Hashcat, John the Ripper, Responder |
 | Packet Analysis | Wireshark, tcpdump |
-| Development | Python |
+| Development | Python, FastAPI, SQLite, Chart.js |
+| Frameworks | MITRE ATT&CK, NIST CSF, ISO 27001 |
 | OS | Kali Linux, Windows Server 2022, Debian |
 | Virtualization | VirtualBox |
 
