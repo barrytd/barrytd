@@ -8,11 +8,12 @@ Aspiring cybersecurity professional working toward a B.S. in Cybersecurity & Inf
 
 ### 🏆 Certifications
 
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=flat-square)
-![Project+](https://img.shields.io/badge/CompTIA-Project%2B-red?style=flat-square)
-![A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=flat-square)
-![ITIL](https://img.shields.io/badge/ITIL-4%20Foundation-purple?style=flat-square)
+<img width="108" height="108" alt="comptia-it-operations-specialist-cios-stackable-certification" src="https://github.com/user-attachments/assets/ebf3268e-a52c-47cc-8591-9ad7ad6dbcc9" />
+<img width="108" height="108" alt="comptia-secure-infrastructure-specialist-csis-stackable-certification" src="https://github.com/user-attachments/assets/ba7d9f55-ae79-4ab9-931e-92852c0d4f2c" />
+<img width="108" height="108" alt="comptia-network-ce-certification 1" src="https://github.com/user-attachments/assets/1058e48f-8a7f-4f71-852c-934e15883751" />
+<img width="108" height="108" alt="comptia-project-ce-certification" src="https://github.com/user-attachments/assets/33853c57-146d-43b0-ac3a-8239d80f788c" />
+<img width="108" height="108" alt="comptia-a-ce-certification 1" src="https://github.com/user-attachments/assets/efda62c5-2cd8-4f7a-9826-ccc6213e583b" />
+<img width="108" height="108" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/da147c6e-e500-4905-a34e-14c9bde98303" />
 
 ---
 
