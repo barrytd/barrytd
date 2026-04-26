@@ -42,6 +42,8 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 **Writing**
 
+[TryHackMe: Overpass 2 — Reading an Attack From a PCAP and Hacking Back In](https://medium.com/@r.perez3/tryhackme-overpass-2-reading-an-attack-from-a-pcap-and-hacking-back-in-15a5dd412932)
+
 [I Built a SOC Tool From Scratch as a Cybersecurity Student. Here Is What It Does.](https://medium.com/@r.perez3/i-built-a-soc-tool-from-scratch-as-a-cybersecurity-student-here-is-what-it-does-e5f31c371500)
 
 [TryHackMe: Introduction to SIEM](https://medium.com/@r.perez3/tryhackme-introduction-to-siem-150fa97b8fc8)
