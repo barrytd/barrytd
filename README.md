@@ -42,13 +42,13 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 **Writing**
 
-[Building a SOC Tool From Scratch as a Cybersecurity Student — Five Days](https://medium.com/@r.perez3)
+[I Built a SOC Tool From Scratch as a Cybersecurity Student. Here Is What It Does.](https://medium.com/@r.perez3/i-built-a-soc-tool-from-scratch-as-a-cybersecurity-student-here-is-what-it-does-e5f31c371500)
 
-[TryHackMe: Introduction to SIEM](https://medium.com/@r.perez3)
-
-[TryHackMe: Nmap Live Host Discovery](https://medium.com/@r.perez3)
-
-[TryHackMe: Net Sec Challenge](https://medium.com/@r.perez3)
+[TryHackMe: Introduction to SIEM](https://medium.com/@r.perez3/tryhackme-introduction-to-siem-150fa97b8fc8)
+  
+[TryHackMe: Nmap Live Host Discovery](https://medium.com/@r.perez3/tryhackme-nmap-live-host-discovery-5bbe1a32cb5b)
+  
+[TryHackMe: Net Sec Challenge](https://medium.com/@r.perez3/tryhackme-net-sec-challenge-575c945d82b5)
 
 ---
 
