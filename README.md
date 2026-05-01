@@ -38,21 +38,24 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 [**Security Lab Portfolio**](https://github.com/barrytd/security-lab-portfolio) — Hands-on penetration testing labs covering Active Directory attacks, privilege escalation, and web exploitation with full notes and walkthroughs.
 
----
-
-**Writing**
-
-[TryHackMe: Overpass 2 — Reading an Attack From a PCAP and Hacking Back In](https://medium.com/@r.perez3/tryhackme-overpass-2-reading-an-attack-from-a-pcap-and-hacking-back-in-15a5dd412932)
-
-[I Built a SOC Tool From Scratch as a Cybersecurity Student. Here Is What It Does.](https://medium.com/@r.perez3/i-built-a-soc-tool-from-scratch-as-a-cybersecurity-student-here-is-what-it-does-e5f31c371500)
-
-[TryHackMe: Introduction to SIEM](https://medium.com/@r.perez3/tryhackme-introduction-to-siem-150fa97b8fc8)
-  
-[TryHackMe: Nmap Live Host Discovery](https://medium.com/@r.perez3/tryhackme-nmap-live-host-discovery-5bbe1a32cb5b)
-  
-[TryHackMe: Net Sec Challenge](https://medium.com/@r.perez3/tryhackme-net-sec-challenge-575c945d82b5)
+[**Cybersecurity Toolbox**](https://github.com/barrytd/cybersecurity-toolbox) — A collection of security tools and scripts for defensive and offensive operations, written in Python.
 
 ---
 
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barrytd&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=github_dark&hide=contribs&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barrytd&layout=compact&hide_border=true&theme=github_dark&langs_count=4)
+**Writing** — latest posts on [Medium](https://medium.com/@r.perez3)
+
+[TryHackMe Mr Robot CTF: WordPress Exploitation and SUID Nmap Privesc](https://medium.com/@r.perez3/tryhackme-mr-robot-ctf-wordpress-exploitation-and-suid-nmap-privesc-ea81c4813983)
+
+[TryHackMe Ignite: Exploiting Fuel CMS 1.4 for RCE and Root](https://medium.com/@r.perez3/tryhackme-ignite-exploiting-fuel-cms-1-4-for-rce-and-root-26cb16efda15)
+
+[TryHackMe Decryptify CTF](https://medium.com/@r.perez3/tryhackme-decryptify-ctf-1d15ca964622)
+
+[TryHackMe Nessus: My First Vulnerability Scan with Tenable](https://medium.com/@r.perez3/tryhackme-nessus-my-first-vulnerability-scan-with-tenable-5b570f1534d6)
+
+---
+
+[![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barrytd&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=github_dark&hide=contribs&rank_icon=github&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barrytd&layout=compact&hide_border=true&theme=github_dark&langs_count=6&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=barrytd&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=barrytd&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
