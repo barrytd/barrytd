@@ -54,8 +54,8 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 ---
 
-[![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barrytd&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=github_dark&hide=contribs&rank_icon=github&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barrytd&layout=compact&hide_border=true&theme=github_dark&langs_count=6&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=barrytd&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=barrytd&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barrytd&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
