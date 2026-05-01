@@ -54,6 +54,14 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=barrytd&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=barrytd&theme=github-dark&hide_border=true&card_width=800" alt="GitHub Streak" width="800">
+  </a>
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barrytd&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=barrytd&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="800">
+  </a>
+</p>
