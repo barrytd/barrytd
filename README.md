@@ -42,18 +42,6 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 ---
 
-**Writing** — latest posts on [Medium](https://medium.com/@r.perez3)
-
-[TryHackMe Mr Robot CTF: WordPress Exploitation and SUID Nmap Privesc](https://medium.com/@r.perez3/tryhackme-mr-robot-ctf-wordpress-exploitation-and-suid-nmap-privesc-ea81c4813983)
-
-[TryHackMe Ignite: Exploiting Fuel CMS 1.4 for RCE and Root](https://medium.com/@r.perez3/tryhackme-ignite-exploiting-fuel-cms-1-4-for-rce-and-root-26cb16efda15)
-
-[TryHackMe Decryptify CTF](https://medium.com/@r.perez3/tryhackme-decryptify-ctf-1d15ca964622)
-
-[TryHackMe Nessus: My First Vulnerability Scan with Tenable](https://medium.com/@r.perez3/tryhackme-nessus-my-first-vulnerability-scan-with-tenable-5b570f1534d6)
-
----
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=barrytd&theme=github-dark&hide_border=true&card_width=800" alt="GitHub Streak" width="800">
