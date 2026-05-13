@@ -17,6 +17,7 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=flat&logo=comptia&logoColor=white)
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=flat&logo=comptia&logoColor=white)
 ![Project+](https://img.shields.io/badge/CompTIA-Project%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![Linux Essentials](https://img.shields.io/badge/LPI-Linux_Essentials-FCC624?style=flat&logo=linux&logoColor=black)
 ![ITIL 4](https://img.shields.io/badge/ITIL-4_Foundation-6E3B8E?style=flat&logoColor=white)
 
 **Skills**
