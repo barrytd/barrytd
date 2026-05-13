@@ -20,16 +20,28 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 ![Linux Essentials](https://img.shields.io/badge/LPI-Linux_Essentials-FCC624?style=flat&logo=linux&logoColor=black)
 ![ITIL 4](https://img.shields.io/badge/ITIL-4_Foundation-6E3B8E?style=flat&logoColor=white)
 
-**Skills**
+**Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-BF2A1B?style=flat&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-1E1E1E?style=flat&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-101010?style=flat&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-DB1F35?style=flat&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable_Nessus-00C176?style=flat&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=flat&logo=go&logoColor=white)
+![enum4linux](https://img.shields.io/badge/enum4linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Steghide](https://img.shields.io/badge/Steghide-6E3B8E?style=flat&logoColor=white)
 
 ---
 
