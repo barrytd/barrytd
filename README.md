@@ -3,7 +3,7 @@
 Cybersecurity student · Building tools for threat detection and blue team operations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-perezpereda/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@r.perez3)
+[![Blog](https://img.shields.io/badge/Blog-barrytd.github.io-58A6FF?style=flat&logo=githubpages&logoColor=white)](https://barrytd.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:r.perezpereda01@gmail.com)
 
 ---
@@ -40,6 +40,20 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 [**Security Lab Portfolio**](https://github.com/barrytd/security-lab-portfolio) — Hands-on penetration testing labs covering Active Directory attacks, privilege escalation, and web exploitation with full notes and walkthroughs.
 
 [**Cybersecurity Toolbox**](https://github.com/barrytd/cybersecurity-toolbox) — A collection of security tools and scripts for defensive and offensive operations, written in Python.
+
+---
+
+**Latest Blog Posts**
+
+[**Skynet**](https://barrytd.github.io/labs/skynet/) — Anonymous Samba leaks a custom wordlist, Hydra against SquirrelMail recovers a password, an email exposes the SMB password, and a Cuppa CMS RFI plus tar wildcard injection in a root cron ends at root.
+
+[**ItsyBitsy**](https://barrytd.github.io/labs/itsybitsy/) — Blue team Kibana investigation that traces a bitsadmin LOLBin call to a Pastebin C2 channel, mapped to MITRE ATT&CK T1197 / T1105 / T1071.001.
+
+[**Brooklyn Nine Nine**](https://barrytd.github.io/labs/brooklyn-nine-nine/) — Two independent attack chains to the same root: anonymous FTP plus rockyou Hydra plus sudo less escape, and steghide on a web image plus sudo nano with NOPASSWD.
+
+[**Mr Robot**](https://barrytd.github.io/labs/mr-robot/) — robots.txt to a leaked wordlist, WordPress username enumeration plus Hydra brute force, theme-editor PHP reverse shell, unsalted MD5 cracked on CrackStation, and SUID nmap to root.
+
+[View all →](https://barrytd.github.io/labs/)
 
 ---
 
