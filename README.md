@@ -8,6 +8,12 @@ Cybersecurity student · Building tools for threat detection and blue team opera
 
 ---
 
+**About me**
+
+I'm an entry-level security professional working toward a B.S. in Cybersecurity and Information Assurance at WGU. I spend my time learning offensive and blue team security through hands-on labs, writing up what I learn on my [blog](https://barrytd.github.io), and building small security tools in Python. Outside of cybersecurity I lift at the gym, play video games, and have been playing a lot of chess on chess.com lately.
+
+---
+
 **Education**
 B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
