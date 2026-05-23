@@ -5,6 +5,7 @@ Cybersecurity student · Building tools for threat detection and blue team opera
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-perezpereda/)
 [![Blog](https://img.shields.io/badge/Blog-barrytd.github.io-58A6FF?style=flat&logo=githubpages&logoColor=white)](https://barrytd.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:r.perezpereda01@gmail.com)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=flat&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/imbxrry)
 
 ---
 
