@@ -57,13 +57,13 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 **Latest Blog Posts**
 
-[**Skynet**](https://barrytd.github.io/labs/skynet/) — Anonymous Samba leaks a custom wordlist, Hydra against SquirrelMail recovers a password, an email exposes the SMB password, and a Cuppa CMS RFI plus tar wildcard injection in a root cron ends at root.
+[**Guided Pentest: Infrastructure**](https://barrytd.github.io/labs/guided-pentest-infrastructure/) — Full kill chain in one short room: nmap fingerprinted UnrealIRCd 3.2.8.1, searchsploit matched CVE-2010-2075 (the textbook supply chain backdoor), the Metasploit module landed a reverse shell, and a plaintext root password in /etc/password.txt let me SSH back in as root.
 
-[**ItsyBitsy**](https://barrytd.github.io/labs/itsybitsy/) — Blue team Kibana investigation that traces a bitsadmin LOLBin call to a Pastebin C2 channel, mapped to MITRE ATT&CK T1197 / T1105 / T1071.001.
+[**Guided Pentest: Web (RecruitX)**](https://barrytd.github.io/labs/guided-pentest-web/) — Chained an IDOR on the profile and API, a broken password-reset flow that returned the token in the HTTP response, and a file-upload extension blocklist that missed .phtml into a www-data reverse shell on a fictional recruitment platform.
 
-[**Brooklyn Nine Nine**](https://barrytd.github.io/labs/brooklyn-nine-nine/) — Two independent attack chains to the same root: anonymous FTP plus rockyou Hydra plus sudo less escape, and steghide on a web image plus sudo nano with NOPASSWD.
+[**Splunk 3 - BOTSv3**](https://barrytd.github.io/labs/splunk-3/) — Hybrid cloud and endpoint investigation: AWS CloudTrail analysis surfaced a misconfigured S3 bucket and a leaked IAM key in a public GitHub repo, browser-based Monero mining was traced through CPU performance data, and a Taedonggang APT endpoint chain ended in a Base64 PowerShell C2 channel.
 
-[**Mr Robot**](https://barrytd.github.io/labs/mr-robot/) — robots.txt to a leaked wordlist, WordPress username enumeration plus Hydra brute force, theme-editor PHP reverse shell, unsalted MD5 cracked on CrackStation, and SUID nmap to root.
+[**Splunk 2 - BOTSv2**](https://barrytd.github.io/labs/splunk-2/) — Four-scenario SIEM investigation as SOC analyst Alice Bluebird: insider-threat email exfil, web SQLi plus XSS, USB-delivered FruitFly malware with dynamic-DNS C2, and a Taedonggang APT chain ending in Diamond Model and MITRE ATT&CK mapping.
 
 [View all →](https://barrytd.github.io/labs/)
 
