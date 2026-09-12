@@ -11,7 +11,7 @@ Cybersecurity student · Building tools for threat detection and blue team opera
 
 **About me**
 
-I'm a QA Engineer at Topflight Apps and a B.S. Cybersecurity and Information Assurance student at WGU. I spend my time learning offensive and blue team security through hands-on labs, writing up what I learn on my [blog](https://barrytd.github.io), and building security tools in Python like [Pulse](https://github.com/barrytd/Pulse). Outside of work I lift at the gym, play video games, and have been playing a lot of chess on chess.com lately.
+I'm an entry-level security professional working toward a B.S. in Cybersecurity and Information Assurance at WGU. I spend my time learning offensive and blue team security through hands-on labs, writing up what I learn on my [blog](https://barrytd.github.io), and building small security tools in Python. Outside of cybersecurity I lift at the gym, play video games, and have been playing a lot of chess on chess.com lately.
 
 ---
 
@@ -84,11 +84,5 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=barrytd&theme=github-dark&hide_border=true&card_width=800" alt="GitHub Streak" width="800">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=barrytd&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="800">
   </a>
 </p>
