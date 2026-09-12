@@ -20,6 +20,7 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 **Certifications**
 
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B_(in_progress)-FF8C00?style=flat&logo=comptia&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=flat&logo=comptia&logoColor=white)
 ![A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=flat&logo=comptia&logoColor=white)
@@ -31,6 +32,10 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-00A4EF?style=flat&logo=microsoft&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EE3124?style=flat&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-4B275F?style=flat&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-2E7D32?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
@@ -64,13 +69,13 @@ B.S. Cybersecurity & Information Assurance — WGU (Expected Dec 2026)
 
 **Latest Blog Posts**
 
+[**Homelab: LOLBin Attack Chain & Detection**](https://barrytd.github.io/labs/homelab-lolbin-attack-chain/) — Built my own Active Directory lab, ran a certutil download into an encoded PowerShell beacon against a Windows 11 host, then hunted the whole chain in Splunk with Sysmon data, decoded the payload in CyberChef, wrote a YARA rule off a unique string, and confirmed it on the network with Wireshark and Suricata.
+
 [**Guided Pentest: Infrastructure**](https://barrytd.github.io/labs/guided-pentest-infrastructure/) — Full kill chain in one short room: nmap fingerprinted UnrealIRCd 3.2.8.1, searchsploit matched CVE-2010-2075 (the textbook supply chain backdoor), the Metasploit module landed a reverse shell, and a plaintext root password in /etc/password.txt let me SSH back in as root.
 
 [**Guided Pentest: Web (RecruitX)**](https://barrytd.github.io/labs/guided-pentest-web/) — Chained an IDOR on the profile and API, a broken password-reset flow that returned the token in the HTTP response, and a file-upload extension blocklist that missed .phtml into a www-data reverse shell on a fictional recruitment platform.
 
 [**Splunk 3 - BOTSv3**](https://barrytd.github.io/labs/splunk-3/) — Hybrid cloud and endpoint investigation: AWS CloudTrail analysis surfaced a misconfigured S3 bucket and a leaked IAM key in a public GitHub repo, browser-based Monero mining was traced through CPU performance data, and a Taedonggang APT endpoint chain ended in a Base64 PowerShell C2 channel.
-
-[**Splunk 2 - BOTSv2**](https://barrytd.github.io/labs/splunk-2/) — Four-scenario SIEM investigation as SOC analyst Alice Bluebird: insider-threat email exfil, web SQLi plus XSS, USB-delivered FruitFly malware with dynamic-DNS C2, and a Taedonggang APT chain ending in Diamond Model and MITRE ATT&CK mapping.
 
 [View all →](https://barrytd.github.io/labs/)
 
